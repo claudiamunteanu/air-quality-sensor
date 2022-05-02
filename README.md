@@ -9,7 +9,7 @@ This project monitors the air quality. The board uses a set of sensor which incl
 - [Raspberry Pi 4B board](https://www.raspberrypi.com/products/raspberry-pi-4-model-b/)
 - [Sense HAT (sensors anssemble)](https://www.raspberrypi.com/products/sense-hat/)
 - [Eclipse Moquitto MQTT Broker](https://mosquitto.org/download/)
-- [Android Studio](https://developer.android.com/studio) (We are using Android Studio Artic Fox)
+- [Android Studio](https://developer.android.com/studio) (We are using Android Studio Arctic Fox)
 - An Android phone with a minimum API level of 27 (Android 8)
 
 ## Setup and Build
