@@ -52,7 +52,7 @@ To run the `CompanionApp` project on your Android phone:
 
 To run the `AirQualitySensorApp` module on a Raspberry Pi 4B board:
 
-1. Run the following command from the terminal:
+1. In the terminal, go to the AirQualitySensorApp folder and run the following command:
   ```
   python3 main.py
   ```
