@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Team Project AT</string>
+    <string name="air_quality_dashboard_title">Air quality dashboard</string>
+    <string name="temperature_label">Temperature:</string>
+    <string name="pressure_label">Pressure:</string>
+    <string name="humidity_label">Humidity:</string>
+    <string name="value_hit_template">%1$s value hit</string>
+    <string name="temperature_template">%1$s °C</string>
+    <string name="humidity_template">%1$s%%</string>
+    <string name="pressure_template">%1$s millibars</string>
+
+</resources>
