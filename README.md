@@ -8,6 +8,8 @@
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
 # Air Quality Sensor
+Raspberry Pi project created for the "Android Things" course at our university in our third year.
+
 This project monitors the air quality. The board uses a set of sensor which includes a barometer, a humidity sensor and a temperature sensor. The sensor captures the temperature, air pressure and humidity levels and send them to the phone. The phone displays the current levels in real-time, as well as a graph which shows historical data for the air temperature. Moreover, when the sensors detect that the air's quality reached some configured threshold values, it sends a notification to the phone.
 
 <!-- TABLE OF CONTENTS -->
